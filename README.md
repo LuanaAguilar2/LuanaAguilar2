@@ -38,7 +38,7 @@ Busco sempre aprimorar minhas habilidades técnicas e colaborar com projetos que
 ## 🔗 Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/luanaaguilar)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=firefox)](https://luana-portfolio.dev)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=firefox)](https://mini-projeto-wedx.vercel.app/)
 
 ---
 
